@@ -1,6 +1,6 @@
 # CourseCorrect User Guide: A Web-Based Platform For Career Development
 
-> **Last updated:** August 10, 2025
+> **Last updated:** August 15, 2025
 >
 > ***Independent disclaimer:*** _This user guide is independently created and not officially endorsed by CourseCorrect. Information is based on user experience and may become outdated as the web platform evolves. For official support, please refer to CourseCorrect's official website and channels._
 
